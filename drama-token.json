@@ -1,7 +1,7 @@
 {
   "name": "dramaToken",
   "symbol": "drama",
-  "uri": "https://rwa-test.axc.xyz/api/v1/rwa/images/1750993714_token.jpeg",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "description": "A token for drama use case",
+  "image": "https://rwa-test.axc.xyz/api/v1/rwa/images/1750993714_token.jpeg",
+  "decimals": 9
 }
