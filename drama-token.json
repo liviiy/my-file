@@ -1,7 +1,7 @@
 {
-  "name": "dramaToken",
-  "symbol": "drama",
+  "name": "USDT",
+  "symbol": "USDT",
   "description": "A token for drama use case",
   "image": "https://rwa-test.axc.xyz/api/v1/rwa/images/1750993714_token.jpeg",
-  "decimals": 9
+  "decimals": 6
 }
